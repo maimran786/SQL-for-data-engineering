@@ -61,7 +61,3 @@ SQL-for-data-engineering/
 **Imran**  
 [GitHub Profile](https://github.com/maimran786)
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
