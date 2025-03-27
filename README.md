@@ -44,13 +44,13 @@ SQL-for-data-engineering/
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/maimran786/SQL-for-data-engineering.git
-   cd SQL-for-data-engineering```
+   cd SQL-for-data-engineering
 2. **Open SQL Files:**
   - Use any SQL editor or IDE (such as DBeaver, pgAdmin, or VSCode with SQL extensions).
 
 3. **Set Up a Database:**
-   - Recommended engine: PostgreSQL
-    - Load sample datasets or create your own to run and test the queries.
+- Recommended engine: PostgreSQL
+- Load sample datasets or create your own to run and test the queries.
 ## 🧰 Requirements
 - SQL environment (PostgreSQL recommended)
 
