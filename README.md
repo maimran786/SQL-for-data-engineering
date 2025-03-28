@@ -14,10 +14,13 @@ The project is organized into topic-specific directories, including:
 - **Database Constraints (PostgreSQL)** – Enforcing data integrity using PRIMARY KEY, UNIQUE, NOT NULL
 - **DDL Commands** – CREATE, ALTER, DROP for managing schema objects
 - **Data Exploration with SELECT** – Retrieving and filtering data effectively
+- **ER Modelling** – Entity-Relationship Diagrams to design and visualize database schemas
 - **Primary & Foreign Keys** – Understanding relational links between tables
 - **Sub-queries** – Writing nested queries for advanced use cases
 - **Views** – Creating virtual tables for reusable queries
 - **Window Functions** – Performing calculations across result sets
+
+
 
 ## 🗂️ Project Structure
 
@@ -31,6 +34,7 @@ SQL-for-data-engineering/
 ├── DB-Constraints-PostgreSQL/
 ├── DDL-Commands/
 ├── Data-Exploration-with-SELECT-Command/
+├── ER-Modelling/
 ├── JOINS/
 ├── Primary-Foreign-KEYS/
 ├── Sub_quries/
